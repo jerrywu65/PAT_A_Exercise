@@ -1,0 +1,3 @@
+﻿  1011_World_Cup_Betting.cpp
+D:\mycode\PAT_A\PAT_A\1011_World_Cup_Betting.cpp(12,6): warning C4101:  “max_idx”: 未引用的局部变量
+  PAT_A.vcxproj -> D:\mycode\PAT_A\Debug\PAT_A.exe
