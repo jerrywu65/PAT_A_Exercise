@@ -1,4 +1,4 @@
-#include <cstdio>
+/*#include <cstdio>
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -18,4 +18,4 @@ int main() {
 	res[0] = n1[0] + n2[0] + carry;
 	cout << res[0] << "." << res[1] << "." << res[2] << endl;
 	return 0;
-}
+}*/
